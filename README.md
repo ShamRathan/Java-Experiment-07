@@ -20,7 +20,7 @@ Step 5 : Display the append array in the terminal.
 
 
 import java.util.Scanner;
-public class Insert_Array
+public class Main
 {
 public static void main(String[] args)
 {
